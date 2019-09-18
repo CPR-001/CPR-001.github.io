@@ -165,19 +165,24 @@ s3453141    <a href="mailto:s3453141@student.rmit.edu.au">@student.rmit.edu.au</
     to focus on the smaller parts of a project and task.
 </p>
 <br/>
-<img src="image3.png"/>
-<img src="image 4.png"/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<img src <img src="image3.png"/>
 
+<<img src="image4.png"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img
+    src="https://lh5.googleusercontent.com/W7jRrBVRXS6MpbqKtyYFe7GRGScHo9750ZCFy2u59EUUbYzVyhJE6yGVcb9jGfyfDEyBPtFttueS3sOW3xZ5M4mhywjhUngfaqgIQD8B-0wsYlDxyYeyLtIfYS-Hf42HLzF2so80"
+    width="602"
+    height="168"
+/>
 <p dir="ltr">
-   <b> My Project:</b>
+    My Project:
 </p>
 <br/>
 <br/>
@@ -197,7 +202,7 @@ s3453141    <a href="mailto:s3453141@student.rmit.edu.au">@student.rmit.edu.au</
     wine making. My project could not only be used by the casual wine drinker,
     but enthusiasts and winemakers alike. Wine sales generated approximately
     $6.25bn in sales in the 2017-18 financial year, with 852m litres being
-    exported<sub>1</sub>. I believe that this idea has the potential to be of great
+    exported1. I believe that this idea has the potential to be of great
     benefit to wine producers, merchants and consumers alike.
 </p>
 <br/>
@@ -257,10 +262,10 @@ s3453141    <a href="mailto:s3453141@student.rmit.edu.au">@student.rmit.edu.au</
 <br/>
 <br/>
 <p dir="ltr">
-    <small><sub>1</sub>Wine Australia (2019). Production, sales and inventory report 2017-18.
+    1Wine Australia (2019). Production, sales and inventory report 2017-18.
     [online] Available at:
     https://www.wineaustralia.com/getmedia/735b7324-ba8d-4fbd-967a-197d490be5e8/MI_PSI_Report_2017-18_F
-    [Accessed 17 Sep. 2019]. </small>
+    [Accessed 17 Sep. 2019].
 </p>
 <div>
     <br/>
